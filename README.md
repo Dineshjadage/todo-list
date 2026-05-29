@@ -97,3 +97,62 @@ The application automatically displays:
 ---
 
 ## Project Structure
+
+
+---
+
+## How to Run
+
+1. Download the project files.
+2. Open `todo-list.html` in any modern web browser.
+3. Start managing your tasks.
+
+No installation or external setup is required.
+
+---
+
+## Application Workflow
+
+1. Enter a task.
+2. Select priority.
+3. Select category.
+4. Click **Add Task**.
+5. Track progress through statistics and progress bar.
+6. Filter tasks based on status or priority.
+7. Mark tasks as completed when finished.
+
+---
+
+## Current Capabilities
+
+✔ Add Tasks  
+✔ Delete Tasks  
+✔ Mark Complete/Incomplete  
+✔ Filter Tasks  
+✔ Priority Management  
+✔ Category Management  
+✔ Progress Tracking  
+✔ Responsive Design
+
+---
+
+## Future Enhancements
+
+- Local Storage support
+- Edit existing tasks
+- Due dates and reminders
+- Drag-and-drop task sorting
+- Search functionality
+- Dark/Light mode switch
+- Data export/import
+- Cloud synchronization
+
+---
+
+## Author
+
+Developed as a modern task management web application using HTML, CSS, and JavaScript.
+
+## License
+
+This project is open-source and available for educational and personal use.
